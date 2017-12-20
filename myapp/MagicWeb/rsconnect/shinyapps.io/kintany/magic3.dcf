@@ -1,0 +1,12 @@
+name: magic3
+title: Magic
+username:
+account: kintany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246022
+bundleId: 1121973
+url: https://kintany.shinyapps.io/magic3/
+when: 1512682882.97345
+asMultiple: FALSE
+asStatic: FALSE

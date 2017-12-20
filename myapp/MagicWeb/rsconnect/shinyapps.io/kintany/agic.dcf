@@ -1,0 +1,12 @@
+name: agic
+title: magic
+username:
+account: kintany
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 245374
+bundleId: 1119761
+url: https://kintany.shinyapps.io/agic/
+when: 1512598416.1563
+asMultiple: FALSE
+asStatic: FALSE
